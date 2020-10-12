@@ -1,0 +1,27 @@
+.header{
+    background-color: yellow;
+    padding: 5px;
+    margin: 25px 25px 25px 25px;
+}
+
+.div{
+    width: 20rem;
+    max-width: 90%;
+    margin: auto;
+}
+
+.list{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+.list-item{
+    color: blue;
+    width: 50%;
+    margin: auto;
+}
+
+.text{
+    text-align: center;
+}
